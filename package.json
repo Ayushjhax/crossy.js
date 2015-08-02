@@ -7,8 +7,8 @@
     "example": "example"
   },
   "dependencies": {
-      "elm-select": "1.0.0",
-      "cross-style": "1.0.0"
+    "elm-select": "1.0.0",
+    "cross-style": "1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
