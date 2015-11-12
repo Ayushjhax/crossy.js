@@ -5,7 +5,7 @@ Modify cross-browser CSS properties with one JavaScript call.
 ## Installation
 
 ```sh
-$ npm i -g crossy
+$ npm i crossy
 ```
 
 ## Example
