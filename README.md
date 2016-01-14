@@ -1,6 +1,6 @@
-# crossy [![Support this project][donate-now]][paypal-donations]
+# crossy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/crossy.svg)](https://www.npmjs.com/package/crossy) [![Downloads](https://img.shields.io/npm/dt/crossy.svg)](https://www.npmjs.com/package/crossy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Modify cross-browser CSS properties with one JavaScript call.
+> Modify cross-browser CSS properties with one JavaScript call.
 
 ## Installation
 
