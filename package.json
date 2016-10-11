@@ -1,6 +1,6 @@
 {
   "name": "crossy",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Modify cross-browser CSS properties with one JavaScript call.",
   "main": "lib/index.js",
   "directories": {
@@ -32,6 +32,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
