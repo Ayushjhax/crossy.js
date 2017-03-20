@@ -1,6 +1,6 @@
 {
   "name": "crossy",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Modify cross-browser CSS properties with one JavaScript call.",
   "main": "lib/index.js",
   "directories": {
@@ -22,7 +22,7 @@
     "css",
     "cross-browser"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/crossy.js/issues"
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
