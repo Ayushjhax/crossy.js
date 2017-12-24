@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save crossy
+# Using npm
+npm install --save crossy
+
+# Using yarn
+yarn add crossy
 ```
 
 
